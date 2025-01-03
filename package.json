@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "prepare": "sh .husky/commit-msg .git/COMMIT_EDITMSG -- --ignore-path src/components/CommentPlugin.tsx"
   },
+  
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
